@@ -36,10 +36,58 @@ padding: 5%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     display:flex;
+    margin-bottom: 50px;
 }
  .section2{
      display: flex;
      background-image: url(images/dream-bg.png);
      background-repeat: no-repeat;
      background-position: right;
+     margin-bottom: 50px;
+ }
+
+ 
+ .full-side{
+   display: flex;
+
+ }
+ .first-side h3{
+    color: orange;
+ }
+.first-side{
+    width: 40%;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    text-align: justify;
+    border-left: 5px solid rgb(21, 83, 21);
+    
+}
+.second-side h3{
+    color: orange;
+}
+
+.second-side{
+
+    width: 40%;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    text-align: justify;
+    border-left: 5px solid rgb(21, 83, 21);
+    
+}
+ .full-side h2{
+     font-size: 40px;
+ }
+ .section3{
+     margin-bottom: 50px;
+ }
+
+ .full-side{
+     background-image: url(images/exp-bg.png);
+     background-position: left;
+     background-repeat: no-repeat;
  }
