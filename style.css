@@ -91,3 +91,7 @@ padding: 5%;
      background-position: left;
      background-repeat: no-repeat;
  }
+
+ footer p{
+     text-align: center;
+ }
